@@ -30,4 +30,4 @@ var str = "Version " + 5 + 1;
 //
 // A: Because str contains text, it is interpreted as a text string. This means that the "+" concatenates
 // instead of performing addition, causing the numbers 5 and 1 to be displayed right against each other.
-// Here's how you would make the value equal Version 6: var str = "Version " + (5 + 1);
+// Here's how you would make the value equal Version 6: var str = "Version " + (5 + 1);.
