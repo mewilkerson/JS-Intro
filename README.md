@@ -1,0 +1,1 @@
+This is a file repository containing the assignments from the first lesson in JavaScript.
